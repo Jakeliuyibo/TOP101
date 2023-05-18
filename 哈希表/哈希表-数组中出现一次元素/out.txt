@@ -1,0 +1,5 @@
+ m=6 mp[m]1
+ m=1 mp[m]2
+ m=4 mp[m]1
+idx=4
+idx=6

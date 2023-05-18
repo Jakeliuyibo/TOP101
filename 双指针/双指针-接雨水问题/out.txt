@@ -1,0 +1,4 @@
+curr idx=1 curr_h=1 left_h=3 right_h=5 add=3
+curr idx=2 curr_h=2 left_h=3 right_h=5 add=3
+curr idx=4 curr_h=2 left_h=5 right_h=4 add=4
+5

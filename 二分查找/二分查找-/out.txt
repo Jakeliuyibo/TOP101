@@ -1,0 +1,4 @@
+curr left=0 mid=2 right=4
+curr left=0 mid=0 right=1
+curr left=1 mid=1 right=1
+1

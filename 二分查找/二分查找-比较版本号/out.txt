@@ -1,0 +1,4 @@
+cuur idx=0 vec1=1 vec2=1
+cuur idx=1 vec1=0 vec2=0
+cuur idx=2 vec1=0 vec2=0
+0
